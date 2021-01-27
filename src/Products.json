@@ -1,0 +1,88 @@
+{
+    "Component": [
+        {
+            "name": "Chips and Tune",
+            "image": "https://miro.medium.com/max/2488/0*-PCJhtBo684r4tA_.jpg",
+            "link": "https://www.carid.com/performance-chips.html",
+            "description": "Enhance your computers software and get more out of your car. We off quck and discret installation",
+            "price": 300
+        },
+        {
+            "name": "Vehicle Wraps",
+            "image": "https://i.pinimg.com/originals/42/b3/7b/42b37bf5b61442ae94aff77e112dd6df.jpg",
+            "link": "https://www.3m.com/3M/en_US/graphics-signage-us/wraps/",
+            "description": "We have a full array of colors and effects to surpass your needs. Excellent Fit and Finish Guaranteed.",
+            "price": 1200
+        },
+        {
+            "name": "Coilovers",
+            "image": "https://images.fitmentindustries.com/buy2/web/bcracing.jpg",
+            "link": "https://www.bcracing-na.com",
+            "description": "Get rid of wheel gaps and make your car lower and increase stability. Have better performace on turns driving comfortability.",
+            "price": 1000
+        },
+        {
+            "name": "Body Kits",
+            "image": "https://img.gta5-mods.com/q95/images/bmw-m4-f82-libertywalk-donfelipe/fd80f6-1.jpg",
+            "link": "https://www.carid.com/body-kits.html",
+            "description": "Add style and uniqeness to your car and enhance your looks. We have what you need from spoilers to full body-kits",
+            "price": 750
+        },
+        {
+            "name": "Air and Fuel",
+            "image": "https://b.cdnbrm.com/images/products/rell/air_intake_systems/kn-69-series-typhoon-intake-system-customer-5.jpg",
+            "link": "https://www.knfilters.com/?gclid=EAIaIQobChMI8caE5re47gIVDvnICh0X8gbvEAAYASAAEgLSgPD_BwE&gclid=EAIaIQobChMI8caE5re47gIVDvnICh0X8gbvEAAYASAAEgLSgPD_BwE",
+            "description": "Improving the air intake in your car will improve power and fuel efficency. We use only the best filter to keepyour engine running smooth even at idle.",
+            "price": 125
+        },
+        {
+            "name": "Wheels and Tires",
+            "image": "https://bbs-usa.com/var/assets_content/NA_image_3.jpg",
+            "link": "https://www.bbs-usa.com",
+            "description": "Wheels are one of the first thing you notice on a car. We offer a diverse collection of wheels and tires tochoose from. All wheels are made of high quality material.",
+            "price": 600
+        },
+        {
+            "name": "Aftermarket Lighting",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.carid.com%2Fimages%2Foracle-lighting%2Fhalo-lights%2F7003-8.jpg&f=1&nofb=1",
+            "link": "https://www.carid.com/automotive-lighting.html",
+            "description": "Visibilty is very important to your safety while driving. We offer a range of lighting equipment from leds tooff-road auxially lights.",
+            "price": 250
+        },
+        {
+            "name": "Superchargers and Turbochargers",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblogs-images.forbes.com%2Fkbrauer%2Ffiles%2F2017%2F07%2F2018-Dodge-Challenger-SRT-Demon-Engine.jpg&f=1&nofb=1",
+            "link": "https://www.armytrix.com/product-exhaust",
+            "description": "Engines create a lot of by-products and harmful emissions. Proper emission and free-flowing exhaust systemshelps with fuel efficency and proper disposal of the by-products",
+            "price": 2000
+        },
+        {
+            "name": "Speakers and Audio Equipment",
+            "image": "https://i.ytimg.com/vi/PkbprjuxDW4/maxresdefault.jpg",
+            "link": "https://www.carid.com/car-audio-electronics.html",
+            "description": "Clear quatily sound while enhance your driving experience. We have all the audio equipment you want fromspeakers to amps . Our choice of audio will provide clear crisp sound",
+            "price": 650
+        },
+        {
+            "name": "Steering and Suspension",
+            "image": "https://i.pinimg.com/originals/f6/93/dd/f693dde63d0495f63a8ff4a58ab55774.jpg",
+            "link": "https://drivenrg.com/collections/steering-wheels?gclid=EAIaIQobChMIgpioo46h7AIVS-DICh1pmwjkEAAYASAAEgJHxfD_BwE",
+            "description": "Awkard steering wheels are often clunky and heavy. We have quick release to Alcantara steering wheels for comfort and performance.",
+            "price": 175
+        },
+        {
+            "name": "Performace Brakes and Rotors",
+            "image": "https://www.khartunerz.com/assets/images/IMG_2550.jpg",
+            "link": "https://www.brembostoreusa.com/?gclid=EAIaIQobChMIk9ym8oSh7AIVhrLICh3jVwO9EAAYAiAAEgLvg_D_BwE",
+            "description": "Brakes are the top safety feature on any car. Performace brakes take it up a notch with decreased breakingdistance and power. Ensuring your brakes work smoothly and properly are essential.",
+            "price": 375
+        },
+        {
+            "name": "Exhaust Systems",
+            "image": "https://i.pinimg.com/736x/6c/f5/e1/6cf5e122339f1834286ad3fd331e47f0.jpg",
+            "link": "https://www.armytrix.com/product-exhaust",
+            "description": "Engines create a lot of by-products and harmful emissions. Proper emission and free-flowing exhaust systemshelps with fuel efficency and proper disposal of the by-products",
+            "price": 750
+        }
+    ]
+}
