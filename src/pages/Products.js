@@ -19,19 +19,17 @@ class Products extends React.Component {
     //opposite of setClick in Hook
     handleClick = () => this.setState({ click: !this.click });
 
-
     //sort by price
-    // priceSort = (a, b) => {
-    //     if (a.price > b.price) {
-    //         return 1
-    //     } else if (a.price < b.price) {
-    //         return -1
-    //     } else {
-    //         return 0
-    //     };
+    priceSort = (a, b) => {
+        if (a.price > b.price) {
+            return 1
+        } else if (a.price < b.price) {
+            return -1
+        } else {
+            return 0
+        };
 
-
-    // };
+    };
 
     // sort by category
     productSort = (category) => {
